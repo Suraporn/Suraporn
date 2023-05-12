@@ -1,19 +1,22 @@
 ## Hi there 👋
 I am Nate Puangpanbut, and I am from Bangkok, Thailand.
 
-I am currntly a gradueate student in the [Master of Data Science program (MDS)](https://masterdatascience.ubc.ca/programs/vancouver) at the University of British Columbia (UBC), Vancouver, Canada, and I am graduating in this July 2023.
-Also, hoding another [Master in Electrical Engineering specialized in Control Systems](https://minghsiehece.usc.edu/) from the University of Southern California (USC), Los Angeles, USA.
+I am currntly a gradueate student in the [Master of Data Science program (MDS)](https://masterdatascience.ubc.ca/programs/vancouver) at the [University of British Columbia (UBC)](https://www.ubc.ca/), Vancouver, Canada, and I am graduating in this July 2023.
+Also, hoding another [Master in Electrical Engineering specialized in Control Systems](https://minghsiehece.usc.edu/) from the [University of Southern California (USC)](https://www.usc.edu/), Los Angeles, USA.
 
 ## Work Experience 🧑🏻‍💻
 5+ years of experience as a Data Scientist Team Leader. Enhanced business competitiveness and improved business decision-making through various projects, demonstrating expertise in applied machine learning and data analytics. **Proven track record in leading analytics projects to transform a company into a data-driven company and supported business KPIs and goals, resulting in savings of $7.37 million**.
 
-My previous projects :
+**My previous projects :**
 - Price Forecasting
 - Demand Forecasting
 - Object Detection and Text Analytics
 - Supply Chain Optimization
 - Robot Process Automation (RPA)
-- Control System performance monitoring system
+- Control performance monitoring system
+  - Minimum variance control
+  - Optimal PID tuning
+  - Plantwide oscillation
 - Control valve stiction detection and quantification
 - Adaptive PID control
 - Novel PID control for long-deadtime processes
