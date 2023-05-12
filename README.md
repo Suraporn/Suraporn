@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Nate Puangpanbut, and I am from Bangkok, Thailand.
 
-I am currntly a gradueate student in the [Master of Data Science program (MDS)](https://masterdatascience.ubc.ca/programs/vancouver) at the [University of British Columbia (UBC)](https://www.ubc.ca/), Vancouver, Canada, and I am graduating in this July 2023.
+I am currently a gradueate student in the [Master of Data Science program (MDS)](https://masterdatascience.ubc.ca/programs/vancouver) at the [University of British Columbia (UBC)](https://www.ubc.ca/), Vancouver, Canada, and I am graduating in this July 2023.
 Also, hoding another [Master in Electrical Engineering specialized in Control Systems](https://minghsiehece.usc.edu/) from the [University of Southern California (USC)](https://www.usc.edu/), Los Angeles, USA.
 
 ## Work Experience 🧑🏻‍💻
