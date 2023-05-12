@@ -25,7 +25,7 @@ Also, hoding another [Master in Electrical Engineering specialized in Control Sy
 
 <p><a href="https://www.linkedin.com/in/suraporn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> 
   
-  <a href="https://medium.com/@suraporn83" target="_blank"><img src=src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" style="height:25px" /></a></p>
+  <a href="https://medium.com/@suraporn83" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg style="height:25px" /></a></p>
 
 
 <h3 align="left">Connect with me:</h3>
