@@ -1,11 +1,22 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Hi there 👋
 I am Nate Puangpanbut, and I am from Bangkok, Thailand.
 
-I am currntly a gradueate student in the Master of Data Science program at the University of British Columbia (UBC), Vancouver, Canada, and I am graduating in this July 2023.
+I am currntly a gradueate student in the Master of Data Science program (MDS) at the University of British Columbia (UBC), Vancouver, Canada, and I am graduating in this July 2023.
 Also, hoding another Master in Electrical Engineering specialized in Control Systems from the University of Southern California (USC), Los Angeles, USA.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Work Experience
 5+ years of experience as a Data Scientist Team Leader managing a team of 5 data scientists. Enhanced business competitiveness and improved business decision-making through various projects, demonstrating expertise in applied machine learning and data analytics. Proven track record in leading analytics projects to transform a company into a data-driven company and supported business KPIs and goals, resulting in savings of $7.37 million.
+
+My previous projects :
+- Price Forecasting
+- Demand Forecasting
+- Object Detection and Text Analytics
+- Supply Chain Optimization
+- Robot Process Automation (RPA)
+- Control System performance monitoring system
+- Control valve stiction detection and quantification
+- Adaptive PID control
+- Novel PID control for long-deadtime processes
 
 
 <h3 align="left">Connect with me:</h3>
