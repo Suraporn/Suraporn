@@ -20,6 +20,7 @@ Also, hoding another [Master in Electrical Engineering specialized in Control Sy
 - Control valve stiction detection and quantification
 - Adaptive PID control
 - Novel PID control for long-deadtime processes
+- Boiler and streams system optimization
 
 
 <h3 align="left">Connect with me:</h3>
