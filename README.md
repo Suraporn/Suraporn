@@ -23,7 +23,9 @@ Also, hoding another [Master in Electrical Engineering specialized in Control Sy
 - Boiler and streams system optimization
 
 
-<p><a href="https://www.linkedin.com/in/suraporn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> <a href="https://medium.com/@suraporn83" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" style="height:25px" /></a></p>
+<p><a href="https://www.linkedin.com/in/suraporn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> <a href="https://medium.com/@suraporn83" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="height:25px" /></a></p>
+
+
   
  <p><a href="https://www.linkedin.com/in/mnabizadeh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> <a href="https://nabi.me" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" style="height:25px" /></a></p>
 
