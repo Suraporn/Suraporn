@@ -22,17 +22,9 @@ Also, hoding another [Master in Electrical Engineering specialized in Control Sy
 - Novel PID control for long-deadtime processes
 - Boiler and streams system optimization
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p><a href="https://www.linkedin.com/in/suraporn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> <a href="https://medium.com/@suraporn83" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="height:25px" /></a></p>
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suraporn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraporn" height="30" width="40" /></a>
-<a href="https://medium.com/@suraporn83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suraporn83" height="30" width="40" /></a>
-</p>
 
 ## What I know 🧠
 
