@@ -1,7 +1,7 @@
-### Hi there 👋
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Hi there 👋
 I am Nate Puangpanbut, and I am from Bangkok, Thailand.
 
-### Work Experience
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Work Experience
 5+ years of experience as a Data Scientist Team Leader managing a team of 5 data scientists. Enhanced business competitiveness and improved business decision-making through various projects, demonstrating expertise in applied machine learning and data analytics. Proven track record in leading analytics projects to transform a company into a data-driven company and supported business KPIs and goals, resulting in savings of $7.37 million.
 
 <h3 align="left">Connect with me:</h3>
